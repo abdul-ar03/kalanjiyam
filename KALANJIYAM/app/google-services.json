@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "546430426170",
+    "firebase_url": "https://kalanjiyam-ffed2.firebaseio.com",
+    "project_id": "kalanjiyam-ffed2",
+    "storage_bucket": "kalanjiyam-ffed2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:546430426170:android:fcd34a2814e59068",
+        "android_client_info": {
+          "package_name": "com.example.kalanjiyam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "546430426170-5daroc94tec0q8oto8ihedvkibru6b1q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kalanjiyam",
+            "certificate_hash": "fbd5492cc92388cf9b4b08452dae011b715d30ae"
+          }
+        },
+        {
+          "client_id": "546430426170-6qj5miqllubei0eds7dq3u1g4629fa89.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6LMO2alCP07TACl01_R1ySmM7XUXqVuM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "546430426170-6qj5miqllubei0eds7dq3u1g4629fa89.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

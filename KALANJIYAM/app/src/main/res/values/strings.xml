@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">KALANJIYAM</string>
+    <string-array name="array_department">
+        <item>Farming</item>
+        <item>Marketing</item>
+        <item>Storage Place</item>
+        <item>Transportation</item>
+        <item>Finance &amp; Accounting</item>
+        <item>Idea Providers</item>
+    </string-array>
+
+    <string-array name="array_product_type">
+        <item>Cereals</item>
+        <item>Fruits</item>
+        <item>Grains</item>
+        <item>Pulses</item>
+        <item>Vegetables</item>
+    </string-array>
+</resources>
